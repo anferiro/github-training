@@ -1,2 +1,5 @@
 
 nombre = andres rincon
+tel = 2333333333
+municiopio = cajica
+depart = cund
