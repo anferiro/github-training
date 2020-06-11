@@ -1,3 +1,2 @@
  mi nombre es Andres Rincon 
-departamento Cundinamarca
-ciudad cajica
+departamento Cajica
